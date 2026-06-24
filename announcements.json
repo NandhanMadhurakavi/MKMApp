@@ -1,3 +1,7 @@
 {
-  "Announcements": "abcdef"
+  "Announcement": "abcdef",
+  "Available": "T",
+  "start": "",
+  "end": "",
+  "till": ""
 }
