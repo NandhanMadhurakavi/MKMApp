@@ -1,9 +1,9 @@
 {
-  "Announcement": "abcdef",
-  "Available": "Y",
+  "Announcement": "Hello",
+  "Available": "T",
   "start": "03:51",
   "end": "20:56",
   "till": "2026-06-29",
-  "timestamp": "2026-06-25T06:31:30.463Z",
+  "timestamp": "2026-06-25T06:33:02.619Z",
   "announcement": "a"
 }
