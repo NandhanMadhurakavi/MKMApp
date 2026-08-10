@@ -1,10 +1,10 @@
 {
   "Announcement": "a",
-  "Available": "Y",
+  "Available": "N",
   "start": "18:00",
   "end": "21:00",
-  "till": "2026-06-30",
-  "timestamp": "2026-06-30T13:03:45.184Z",
+  "till": "2026-08-12",
+  "timestamp": "2026-08-10T15:53:20.152Z",
   "announcement": "a",
-  "appLatestVersion": 1 
+  "appLatestVersion": 1
 }
