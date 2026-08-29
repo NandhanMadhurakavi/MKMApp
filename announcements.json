@@ -1,10 +1,10 @@
 {
-  "Announcement": "Abc",
-  "Available": "N",
+  "Announcement": "Abcdefghh",
+  "Available": "T",
   "start": "18:00",
   "end": "21:00",
   "till": "2026-09-03",
-  "timestamp": "2026-08-28T19:18:35.128Z",
+  "timestamp": "2026-08-29T17:05:02.188Z",
   "announcement": "a",
   "appLatestVersion": 1
 }
